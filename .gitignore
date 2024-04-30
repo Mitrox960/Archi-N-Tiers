@@ -1,23 +1,67 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+# Visual Studio Code
+.vscode/
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+# Rider
+.idea/
 
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
 
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
+# Visual Studio
+*.cache
+*.log
+*.vspscc
+*.vspxu
+*.userprefs
+*.old
+*.bak
+*.ncb
+*.aps
+*.idb
+*.pdm
+*.pdb
+*.ilk
+*.meta
+*.obj
+*.pch
+*.sbr
+*.scc
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_i.c
+*_p.c
+*.ilk
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.prof
+
+# Rider
+.idea/
+*.sln.iml
